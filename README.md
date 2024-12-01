@@ -81,17 +81,25 @@ Khi bắt đầu bạn sẽ phải đăng ký một tài khoản để có thể
 #### 2.3 *Giao diện thư viện trong vai trò user*
   
    Nếu bạn là người dùng có vai trò User bạn sẽ được chuyển đến giao diện User.  Trong giao diện bạn có thể tìm kiếm sách theo tên dựa vào nut search thư viện sẽ trả ra danh sách các sách phù hợp với tên bạn tìm.
+
+   Đây là giao diện tìm kiếm dựa theo tên sách ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085985622441_5308d0fc13f7fe1a262b2a4d9b0ec47e.jpg)
    
    Khi bạn nhấn vào hình này trên màn hình ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220246.png) bạn có hai lựa chọn là  `profile` và `logout`.
   
   Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220658.png)
    
-  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20235357.png) bạn sẽ chuyển sang trang hiển thị sách trong thư viện. Khi chọn một cuốn sách nó sẽ hiện ra thông tin sách chi tiết và nút `borrow` để bạn có thể mượn sách đó.![logo]
+  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20235357.png) bạn sẽ chuyển sang trang hiển thị sách trong thư viện.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085977309418_a7a54331db4620bff03bd53c9b9c7587.jpg) 
+  
+  Khi chọn một cuốn sách nó sẽ hiện ra thông tin sách chi tiết và nút `borrow` để bạn có thể mượn sách đó.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20095306.png)
 
-  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20235737.png) bạn sẽ chuyển bạn sang trang mà chứa các sách mà bạn đang mượn của thư viện. Tương tự với trên khi nhấn vào chi tiết thì sẽ có nút `return` để trả sách.![logo]
+  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20235737.png) bạn sẽ chuyển bạn sang trang mà chứa các sách mà bạn đang mượn của thư viện.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085978562130_1b443e7ebcf7318082e7cc93bbc8a877.jpg)
+  
+  Tương tự với trên khi nhấn vào chi tiết thì sẽ có nút `return` để trả sách.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20095532.png)
 
-  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/home%20(1).png) bạn sẽ chuyển về trang chủ với sách được gợi ý theo đánh giá và ngày thêm gần đây giúp bạn tìm kiếm được sách phù hợp để mượn và trong đó còn giúp tăng trải nghiệm người dùng. Đây là giao diện của  `homeUser`.![logo]
+  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/home%20(1).png) bạn sẽ chuyển về trang chủ với sách được gợi ý theo đánh giá và ngày thêm gần đây giúp bạn tìm kiếm được sách phù hợp để mượn và trong đó còn giúp tăng trải nghiệm người dùng. Đây là giao diện của  `homeUser`.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085976051438_56d1a77c2e813ecc0e56f26e388cb4b2.jpg)
+
 ### 3. Thư viện đã sử dụng.
+
 #### JavaFX :  JavaFX là một thư viện mạnh mẽ của Java dùng để phát triển giao diện người dùng (UI). Thư viện này giúp xây dựng các ứng dụng với giao diện đẹp mắt và dễ sử dụng. JavaFX hỗ trợ các tính năng như 2D/3D đồ họa, media, và webview, giúp cải thiện trải nghiệm người dùng.
 
 #### Json : kết nốt dữ liệu với API Google books.
