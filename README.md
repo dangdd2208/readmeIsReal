@@ -60,7 +60,7 @@ Khi bắt đầu bạn sẽ phải đăng ký một tài khoản để có thể
 #### 2.2 *Giao diện của thư viện trong vai trò admin*
   Đây là giao diện *Home* trong thư viện. ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20133729.png) Giao diện này sẽ hiển thị thời gian hiện tại và hiển thị các thành phần có trong thư viện. Khi bạn nhấn vào hình này trên màn hình ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220246.png) bạn có hai lựa chọn là  `profile` và `logout`.
   
-  Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220658.png)
+  Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20140402.png)
   
   Còn nếu bạn chọn `logout` thì sẽ chọn ra màn hình đăng nhập ban đầu.
 
