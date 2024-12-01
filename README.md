@@ -58,25 +58,25 @@ git clone -b main https://github.com/chuongdinh277/QuanLiThuVien.git
 #### 2.1 *Đăng ký và đăng nhập tài khoản.*
 Khi bắt đầu bạn sẽ phải đăng ký một tài khoản để có thể vào chương trình hoặc có thể đăng nhập nếu bạn đã có tài khoản. Đây là màn hình giao diện đăng nhập của ứng dụng. ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20211112.png) Nếu bạn chưa có tài khoản thì bạn cần nhấn vào `Sing In` để tạo tài khoản đăng nhập ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20214905.png) để tạo tài khoản cho bạn để sử dụng thư viện. Sau khi tạo tài khoản bạn có thể dùng tài khoản để đăng nhập. Bạn cần nhập đúng tài khoản và mật khẩu và vai trò mà bạn đã đăng ký. Nếu bạn nhập sai mật khẩu hoặc tài khoản và cả vai trò thì bạn sẽ không thể đăng nhập vào được thư viện. Một tài khoản có thể có vai trò là admin hoặc user.
 #### 2.2 *Giao diện của thư viện trong vai trò admin*
-  Đây là giao diện *Home* trong thư viện. ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20215616.png) Giao diện này sẽ hiển thị thời gian hiện tại và hiển thị các thành phần có trong thư viện. Khi bạn nhấn vào hình này trên màn hình ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220246.png) bạn có hai lựa chọn là  `profile` và `logout`.
+  Đây là giao diện *Home* trong thư viện. ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20133729.png) Giao diện này sẽ hiển thị thời gian hiện tại và hiển thị các thành phần có trong thư viện. Khi bạn nhấn vào hình này trên màn hình ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220246.png) bạn có hai lựa chọn là  `profile` và `logout`.
   
   Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220658.png)
   
   Còn nếu bạn chọn `logout` thì sẽ chọn ra màn hình đăng nhập ban đầu.
 
-  Trong giao diện `home` thì nếu bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222637.png) nó sẽ hiển thị ra danh sách các sách trong thư viện của bạn ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222419.png). Nếu bạn nhấn vào `ADD BOOK` thì bạn sẽ vào trang để tìm kiếm sách trên dựa theo tên tác giả và tác giả để tìm sách [API google books](https://developers.google.com/books?hl=vi) ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222426.png)
+  Trong giao diện `home` thì nếu bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222637.png) nó sẽ hiển thị ra danh sách các sách trong thư viện của bạn ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222419.png). Nếu bạn nhấn vào `ADD BOOK` thì bạn sẽ vào trang để tìm kiếm sách trên dựa theo tên tác giả và tác giả để tìm sách [API google books](https://developers.google.com/books?hl=vi) ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20133714.png)
 
   Còn nếu bạn nhấn vào quyền sách trên giá sách thì nó sẽ hiện ra chi tiết của quyển sách ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20223921.png) Đây là giao diện hiển thị chi tiết của quyển sách bạn chọn trong thư viện và bạn có thể `update` và `delete` sách nếu bạn có vai trò là một admin. 
   
   Khi bạn chọn `comment` thì nó sẽ hiện ra các commit của người dùng đánh giá cho sách và bạn cũng có thể tự đánh giá suy nghĩ của mình cho cuốn sách.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20224126.png) 
 
-  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222643.png) đây sẽ là logo để hiện ra dánh sách *students* có trong thư viện tương tự khi với sách khi nhấn vào sinh viên nó sẽ hiện ra thông tin cơ bản của sinh viên ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20224726.png)
+  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222643.png) đây sẽ là logo để hiện ra dánh sách *students* có trong thư viện tương tự khi với sách khi nhấn vào sinh viên nó sẽ hiện ra thông tin cơ bản của sinh viên ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20134453.png)
 
-  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222641.png) nó sẽ hiện ra một trang để bạn cho mượn sách tới 1 sinh viên khi bạn có đầy đủ thông tin. Đây là giao diện của trang bạn sẽ cho sinh viên mượn sách ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222511.png)
+  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222641.png) nó sẽ hiện ra một trang để bạn cho mượn sách tới 1 sinh viên khi bạn có đầy đủ thông tin. Đây là giao diện của trang bạn sẽ cho sinh viên mượn sách ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20134442.png)
 
-  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222647.png) sẽ dẫn bạn đến trang tổng hợp sách đã mượn với thông tin đầy đủ: người mượn, ngày mượn, ngày trả.
+  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222647.png) sẽ dẫn bạn đến trang tổng hợp sách đã mượn với thông tin đầy đủ: người mượn, ngày mượn, ngày trả. ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20134507.png)
 
-  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222651.png) thì bạn sẽ chuyển đến trang hiển thị thông tin đầy đủ của *student* theo `StudentID`. Đây là giao diện trang ấy ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20225536.png) Nó giúp bạn quan sát kĩ các sinh viên trong thư viện của bạn.
+  Còn nếu trong giao diện `home` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20222651.png) thì bạn sẽ chuyển đến trang hiển thị thông tin đầy đủ của *student* theo `StudentID`. Đây là giao diện trang ấy ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20135029.png) Nó giúp bạn quan sát kĩ các sinh viên trong thư viện của bạn.
 
 #### 2.3 *Giao diện thư viện trong vai trò user*
   
@@ -86,7 +86,7 @@ Khi bắt đầu bạn sẽ phải đăng ký một tài khoản để có thể
    
    Khi bạn nhấn vào hình này trên màn hình ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220246.png) bạn có hai lựa chọn là  `profile` và `logout`.
   
-  Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20220658.png)
+  Nếu bạn chọn `profile` thì nó sẽ hiển thị ra profile của người dùng ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20133807.png)
    
   Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-11-30%20235357.png) bạn sẽ chuyển sang trang hiển thị sách trong thư viện.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085977309418_a7a54331db4620bff03bd53c9b9c7587.jpg) 
   
@@ -96,7 +96,7 @@ Khi bắt đầu bạn sẽ phải đăng ký một tài khoản để có thể
   
   Tương tự với trên khi nhấn vào chi tiết thì sẽ có nút `return` để trả sách.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20095532.png)
 
-  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/home%20(1).png) bạn sẽ chuyển về trang chủ với sách được gợi ý theo đánh giá và ngày thêm gần đây giúp bạn tìm kiếm được sách phù hợp để mượn và trong đó còn giúp tăng trải nghiệm người dùng. Đây là giao diện của  `homeUser`.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085976051438_56d1a77c2e813ecc0e56f26e388cb4b2.jpg)
+  Nếu trong giao diện `user` bạn chọn nút ![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/Screenshot%202024-12-01%20135245.png) bạn sẽ chuyển về trang chủ với sách được gợi ý theo đánh giá và ngày thêm gần đây giúp bạn tìm kiếm được sách phù hợp để mượn và trong đó còn giúp tăng trải nghiệm người dùng. Đây là giao diện của  `homeUser`.![logo](https://github.com/dangdd2208/readmeIsReal/blob/main/z6085976051438_56d1a77c2e813ecc0e56f26e388cb4b2.jpg)
 
 ### 3. Thư viện đã sử dụng.
 
